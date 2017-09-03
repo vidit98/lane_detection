@@ -13,4 +13,4 @@ $make lane
 $./lane t22.jpg
 ```
 ## Output
-![alt text](https://raw.githubusercontent.com/vidit98/lane_detection/master/result/Screenshot from 2017-03-03 05:23:46.png)
+![alt text](https://raw.githubusercontent.com/vidit98/lane_detection/master/result/output.png)
